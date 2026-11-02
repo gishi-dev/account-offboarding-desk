@@ -1,0 +1,42 @@
+[
+  {
+    "id": "E13-drive",
+    "declared": true,
+    "after": "営業共有",
+    "evidence": "D13",
+    "verifier": "確認担当B",
+    "handover": false
+  },
+  {
+    "id": "E13-accounting",
+    "declared": true,
+    "after": "停止",
+    "evidence": "A13",
+    "verifier": "確認担当B",
+    "handover": false
+  },
+  {
+    "id": "E14-mail",
+    "declared": true,
+    "after": "停止",
+    "evidence": "M14",
+    "verifier": "確認担当B",
+    "handover": false
+  },
+  {
+    "id": "E15-drive",
+    "declared": true,
+    "after": "停止",
+    "evidence": "D15",
+    "verifier": "確認担当B",
+    "handover": true
+  },
+  {
+    "id": "E15-accounting",
+    "declared": true,
+    "after": null,
+    "evidence": null,
+    "verifier": null,
+    "handover": false
+  }
+]

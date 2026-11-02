@@ -1,0 +1,16 @@
+{
+  "name": "account-offboarding-desk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "架空の退職・異動の作業と完了記録を確認する公開デモ",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check server.mjs && node --check app.js"
+  },
+  "dependencies": {}
+}

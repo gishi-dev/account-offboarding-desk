@@ -1,0 +1,326 @@
+{
+  "roster": [
+    {
+      "employee": "E01",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E02",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E03",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E04",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E05",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E06",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E07",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E08",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E09",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E10",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E11",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E12",
+      "status": "在籍",
+      "department": "共通",
+      "at": null
+    },
+    {
+      "employee": "E13",
+      "status": "異動",
+      "department": "経理→営業",
+      "at": "2026-10-30T09:00"
+    },
+    {
+      "employee": "E14",
+      "status": "退職",
+      "department": "共通",
+      "at": "2026-10-30T18:00"
+    },
+    {
+      "employee": "E15",
+      "status": "退職",
+      "department": "共通",
+      "at": "2026-10-30T18:00"
+    }
+  ],
+  "usages": [
+    {
+      "employee": "E01",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E01",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E01",
+      "service": "accounting",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E02",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E02",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E02",
+      "service": "accounting",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E03",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E03",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E04",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E04",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E05",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E05",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E06",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E06",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E07",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E07",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E08",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E08",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E09",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E09",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E10",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E10",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E11",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E11",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E12",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E12",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E13",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E13",
+      "service": "drive",
+      "state": "経理共有",
+      "evidence": null
+    },
+    {
+      "employee": "E13",
+      "service": "accounting",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E14",
+      "service": "mail",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E14",
+      "service": "drive",
+      "state": "停止",
+      "evidence": "D14"
+    },
+    {
+      "employee": "E15",
+      "service": "mail",
+      "state": "停止",
+      "evidence": "M15"
+    },
+    {
+      "employee": "E15",
+      "service": "drive",
+      "state": "利用中",
+      "evidence": null
+    },
+    {
+      "employee": "E15",
+      "service": "accounting",
+      "state": "利用中",
+      "evidence": null
+    }
+  ],
+  "receipts": [
+    {
+      "employee": "E13",
+      "type": "異動",
+      "at": "2026-10-30T09:00",
+      "mail": "継続",
+      "drive": "営業共有",
+      "accounting": "停止"
+    },
+    {
+      "employee": "E14",
+      "type": "退職",
+      "at": "2026-10-30T18:00",
+      "mail": "停止",
+      "drive": "停止",
+      "accounting": "停止"
+    },
+    {
+      "employee": "E15",
+      "type": "退職",
+      "at": "2026-10-30T18:00",
+      "mail": "停止",
+      "drive": "停止",
+      "accounting": "停止"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "A": {
+    "complete": 5,
+    "waiting": 0
+  },
+  "B": {
+    "complete": 4,
+    "waiting": 1
+  },
+  "rows": [
+    {
+      "id": "E13-drive",
+      "after": "営業共有",
+      "result": "完了条件を満たす"
+    },
+    {
+      "id": "E13-accounting",
+      "after": "停止",
+      "result": "完了条件を満たす"
+    },
+    {
+      "id": "E14-mail",
+      "after": "停止",
+      "result": "完了条件を満たす"
+    },
+    {
+      "id": "E15-drive",
+      "after": "停止",
+      "result": "完了条件を満たす"
+    },
+    {
+      "id": "E15-accounting",
+      "after": "停止",
+      "result": "確認待ち"
+    }
+  ]
+}
